@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "poetry-bundle-plugin"
-version = "0.1.0"
+name = "poetry-bundla-plugin"
+version = "0.1.1"
 description = "Poetry plugin to bundle projects into various formats"
-authors = ["Sébastien Eustace <sebastien@eustace.io>"]
+authors = ["Sébastien Eustace <sebastien@eustace.io>", "jtzero <jtzero511@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 
@@ -16,7 +16,7 @@ include = [
 
 [tool.poetry.dependencies]
 python = "^3.6"
-poetry = "^1.2.0a2"
+poetry = "1.2.0a2"
 
 [tool.poetry.dev-dependencies]
 black = { version = "^21.4b1", python = "^3.6.2"}
