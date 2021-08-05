@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "poetry-bundla-plugin"
-version = "0.1.1"
+version = "0.1.2"
 description = "Poetry plugin to bundle projects into various formats"
 authors = ["Sébastien Eustace <sebastien@eustace.io>", "jtzero <jtzero511@gmail.com>"]
 license = "MIT"
