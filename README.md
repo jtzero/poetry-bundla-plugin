@@ -1,3 +1,5 @@
+This was only for the alpha 1.2 of poetry and is no longer needed or maintained, please use something akin to `pip install git+https://github.com/python-poetry/poetry-plugin-bundle.git@2e351beb6f23545a40f8325e3f1641bd517b7ef3#egg=poetry-plugin-bundle` from https://github.com/python-poetry/poetry-plugin-bundle
+
 # Poetry bundle plugin
 
 This package is a plugin that allows the bundling of Poetry projects into various formats.
